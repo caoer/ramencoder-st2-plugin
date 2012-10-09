@@ -12,3 +12,11 @@ ssh-copy-id ramencoder@ramencoder.com
 ```
 
 TODO: add manually add instruction
+
+## Use ##
+
+Command + Shift + P: 
+  Octopress: New post
+  Octopress: New wiki
+  Octopress: Deploy
+Also can be accessd from Tools -> Octopress
