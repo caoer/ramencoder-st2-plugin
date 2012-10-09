@@ -1,0 +1,17 @@
+[
+    {
+        "caption": "Octopress: New post",
+        "command": "octo_post",
+        "args": {}
+    },
+    {
+        "caption": "Octopress: New wiki",
+        "command": "octo_wiki",
+        "args": {}
+    },
+      {
+        "caption": "Octopress: Deploy",
+        "command": "octo_deploy",
+        "args": {}
+    }
+]

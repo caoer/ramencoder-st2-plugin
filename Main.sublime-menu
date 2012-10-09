@@ -1,0 +1,17 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Octopress",
+                "children":
+                [
+                    { "caption": "New post...", "command": "octo_post" },
+                    { "caption": "New post...", "command": "octo_wiki" },
+                    { "caption": "Deploy",      "command": "octo_deploy" }
+                ]
+            }
+        ]
+    }
+]
